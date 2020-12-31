@@ -41,3 +41,4 @@ jobs:
           tags: |
             raydoom/hsk-ddns-client:latest
             raydoom/hsk-ddns-client:${{ github.sha }}
+
